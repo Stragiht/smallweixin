@@ -1,7 +1,7 @@
 {
   "pages":[
     "pages/cal/cal",
-    "pages/logs/logs"
+    "pages/list/list"
   ],
   "window":{
     "backgroundTextStyle":"light",
